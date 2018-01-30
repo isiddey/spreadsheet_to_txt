@@ -1,0 +1,18 @@
+{
+  "name": "xls_txt",
+  "version": "1.0.0",
+  "description": "Converts XLS file to TXT with custom delimeter.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Siddhant Mishra",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "less": "^2.7.3",
+    "xlsx": "^0.11.16",
+    "electron": "^1.7.10"
+  }
+}
